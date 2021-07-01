@@ -20,6 +20,7 @@ codeunit 50100 Subscribers
             exit;
         If ItemJournalLine."Variant Code" <> '' then
             Error(InvVariantErr);
+
         ItemJournalLine."Variant Code" := '';
     end;
 
