@@ -1,0 +1,28 @@
+{
+  "id": "84bb4036-3f58-452b-bc58-2d5d2287dfb9",
+  "name": "Koolituse äpp",
+  "publisher": "Urmas ja Lembit",
+  "version": "1.0.0.0",
+  "brief": "See on tore äpp",
+  "description": "See on äpi kirjeldus",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "11.0.0.0",
+  "features": ["TranslationFile"],
+  "supportedLocales": ["en-US","et-EE"],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Koolitus.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
