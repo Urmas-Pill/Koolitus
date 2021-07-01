@@ -15,7 +15,7 @@ tableextension 50100 MyCustTableExt extends Customer
             begin
                 if true then begin
                     Message(capMyMessageTxt, "No.");
-                    Message('llll');
+                    Message('llll-öööö');
                 end;
             end;
         }
